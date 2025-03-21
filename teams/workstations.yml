@@ -24,4 +24,3 @@ team_settings:
 software:
   packages:
     - path: ../lib/desktoppr-0.5-218.pkg
-      self_service: true
