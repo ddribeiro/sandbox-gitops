@@ -22,3 +22,6 @@ team_settings:
   secrets:
     - secret: "$FLEET_WORKSTATIONS_ENROLL_SECRET"
 software:
+  packages:
+    - path: ../lib/desktoppr-0.5-218.pkg
+      self_service: true
