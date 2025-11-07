@@ -20,7 +20,7 @@ controls:
     - path: ../lib/set-timezone.script.sh
     - path: ../lib/hello_world.sh
   macos_setup:
-    script: ../lib/setup.sh
+    script: ../lib/hello_world.sh
 team_settings:
   secrets:
     - secret: "$FLEET_WORKSTATIONS_ENROLL_SECRET"
