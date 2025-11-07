@@ -25,4 +25,4 @@ team_settings:
 software:
   fleet_maintained_apps:
     - slug: slack/darwin
-    setup_experience: true
+      setup_experience: true
