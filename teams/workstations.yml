@@ -24,4 +24,4 @@ team_settings:
     - secret: "$FLEET_WORKSTATIONS_ENROLL_SECRET"
 software:
   fleet_maintained_apps:
-    - sug: slack/darwin
+    - slug: slack/darwin
