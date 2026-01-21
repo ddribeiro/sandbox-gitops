@@ -1,0 +1,4 @@
+- name: macOS 13 or greater
+  description: Hosts that have macOS 13 or more recent
+  query: SELECT 1 FROM os_version WHERE major >= 13
+  label_membership_type: dynamic
