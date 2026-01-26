@@ -22,7 +22,7 @@ controls:
   macos_updates:
     deadline: "2026-01-25"
     minimum_version: "26.2"
-    update_new_hosts: true
+    update_new_hosts: false
   macos_setup:
     script: ../lib/hello_world.sh
 team_settings:
