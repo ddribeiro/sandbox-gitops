@@ -39,7 +39,5 @@ software:
       setup_experience: true
     - slug: brave-browser/darwin
       setup_experience: true
-    - slug: google-chrome/darwin
-      setup_experience: true
     - slug: firefox/darwin
       setup_experience: true
